@@ -7,3 +7,4 @@ c=x
 b=y
 print(c+b)
 print(x+y)
+print(x-y)
